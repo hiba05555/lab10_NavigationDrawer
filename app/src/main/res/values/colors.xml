@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hc_primary">#6A1B9A</color>
+    <color name="hc_primary_dark">#38006b</color>
+    <color name="hc_accent">#FFD600</color>
+    <color name="hc_background">#F5F5F5</color>
+    <color name="hc_text_dark">#212121</color>
+    <color name="hc_text_light">#FFFFFF</color>
+    <color name="hc_fragment1">#F8BBD0</color>
+    <color name="hc_fragment2">#3F51B5</color>
+</resources>
